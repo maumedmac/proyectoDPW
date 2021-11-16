@@ -1,4 +1,4 @@
-<div class="row g-0 bg-light position-relative">
+<div class="row g-0 bg-light position-relative" id="about">
   <div class="col-md-6 mb-md-0 p-md-4">
     <img src="..." class="w-100" alt="...">
   </div>

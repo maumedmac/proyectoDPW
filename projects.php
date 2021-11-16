@@ -1,4 +1,4 @@
-<div class="row-left">>
+<div class="row-left" id="projects">
     <div class="card col-md-6">
     <img src="..." class="card-img-top" alt="...">
         <div class="card-body">
